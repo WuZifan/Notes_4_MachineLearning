@@ -11,4 +11,3 @@
 
 * 1）[Numpy学习](https://github.com/WuZifan/Notes_4_MachineLearning/blob/master/PythonPackage/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0Day1%EF%BC%9ANumpy.ipynb)
 
-test
